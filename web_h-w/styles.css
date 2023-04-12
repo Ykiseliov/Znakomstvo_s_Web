@@ -25,6 +25,7 @@ body{
     font-family:'Roboto', sans-serif;
    }
    .text h2{
+    text-shadow: 1px 1px crimson;
     font-size:30px;
     margin-bottom:10px;
     font-family:'Roboto', sans-serif;
