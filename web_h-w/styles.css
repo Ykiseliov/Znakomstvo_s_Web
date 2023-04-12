@@ -26,40 +26,19 @@ body{
    }
    .text h2{
     font-size:30px;
-    margin-bottom:10px;;
+    margin-bottom:10px;
+    font-family:'Roboto', sans-serif;
    }
    .text p{
     font-size:20px;
     line-height:1.5;
     margin-bottom:20px;
+    font-family:'Roboto', sans-serif;
    }
    .img{
     flex:1;
    }
    .img img{
-    max-width:100%;
-    height:auto;
-   }
-   form{
-    display:flex;
-    flex-wrap:wrap;
-    margin-bottom:20px;
-    align-items:center;
-   }
-   input{
-    flex:1;
-    padding:10px;
-    margin-right:20px;
-    border-radius:5px;
-    font-size:16px;
-    border:2px solid #ddd;
-   }
-   button{
-    background-color:#4CAF50;
-    color:white;
-    border:none;
-    border-radius:5px;
-    padding:10px 20px;
-    font-size:16px;
-    cursor:pointer;
+    width:400px;
+    height:300px;
    }
