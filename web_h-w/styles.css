@@ -23,18 +23,20 @@ body{
     flex:1;
     margin-right:20px;
     font-family:'Roboto', sans-serif;
+    
    }
    .text h2{
     text-shadow: 1px 1px crimson;
     font-size:30px;
     margin-bottom:10px;
-    font-family:'Roboto', sans-serif;
+    font-family:'Roboto', sans-serif;;
    }
    .text p{
     font-size:20px;
     line-height:1.5;
     margin-bottom:20px;
     font-family:'Roboto', sans-serif;
+   
    }
    .img{
     flex:1;
@@ -43,4 +45,8 @@ body{
     width:400px;
     height:300px;
    }
- 
+   .text_2{
+    flex:1;
+    margin-right:20px;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
