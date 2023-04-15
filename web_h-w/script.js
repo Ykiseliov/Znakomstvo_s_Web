@@ -1,3 +1,4 @@
+<script language = "JavaScript">
 const form = document.querySelector('form');
 const emailInput = document.getElementById('email');
 const sendButton = document.getElementById('send');
@@ -17,3 +18,4 @@ sendButton.addEventListener('click', () => {
   message.innerText = 'Данные отправлены.';
   message.classList.remove('error');
 });
+</script>
