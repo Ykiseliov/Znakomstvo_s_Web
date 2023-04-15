@@ -12,8 +12,6 @@ sendButton.addEventListener('click', () => {
     return;
   }
 
-  // Здесь можно добавить код для отправки данных формы на сервер.
-
-  message.innerText = 'Данные отправлены.';
+  message.innerText = 'Вы подписались на рассылку!';
   message.classList.remove('error');
 });
