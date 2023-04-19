@@ -1,0 +1,28 @@
+{
+    "Groupmates": [
+      {
+        "id": 1,
+        "name": "Vasiutin Kolya",
+        "age": 22,
+        "adress": "Minsk, Belarus"
+      },
+      {
+        "id": 2,
+        "name": "Makalchuk Vasya",
+        "age": 25,
+        "adress": "Brest, Belarus"
+      },
+      {
+        "id": 3,
+        "name": "Nekraschevich Dima",
+        "age": 35,
+        "adress": "Gomel, Belarus"
+      },
+      {
+        "id": 4,
+        "name": "Ostapchuk Olga",
+        "age": 38,
+        "adress": "Minsk, Belarus"
+      }
+    ]
+  }
